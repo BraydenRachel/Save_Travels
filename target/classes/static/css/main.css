@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+.container {
+	margin: 50px;
+	padding: 50px;
+	background-color: grey;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
